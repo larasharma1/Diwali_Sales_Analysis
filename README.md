@@ -26,10 +26,7 @@ Exploratory Data Analysis of Diwali sales data using Python to understand custom
 
 The analysis identifies customer segments, locations, occupations, and product categories contributing significantly to Diwali sales.
 
-## Files
 
-* `Diwali_Sales_Analysis.ipynb` — EDA notebook
-* `Diwali_Sales_Data.csv` — Dataset
 
 
 
